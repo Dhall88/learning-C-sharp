@@ -1,0 +1,12 @@
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/david/Desktop/personal_projects/learning-C-sharp/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
