@@ -1,0 +1,12 @@
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/bin/Debug/netcoreapp3.1/rectangle.deps.json
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/bin/Debug/netcoreapp3.1/rectangle.runtimeconfig.json
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/bin/Debug/netcoreapp3.1/rectangle.runtimeconfig.dev.json
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/bin/Debug/netcoreapp3.1/rectangle.dll
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/bin/Debug/netcoreapp3.1/rectangle.pdb
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.csprojAssemblyReference.cache
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.AssemblyInfoInputs.cache
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.AssemblyInfo.cs
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.dll
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.pdb
+/Users/david/Desktop/personal_projects/learning-C-sharp/rectangle/obj/Debug/netcoreapp3.1/rectangle.genruntimeconfig.cache
